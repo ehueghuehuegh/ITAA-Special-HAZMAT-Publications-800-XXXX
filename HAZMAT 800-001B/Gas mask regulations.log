@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  9 SEP 2026 20:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  14 SEP 2026 18:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -684,7 +684,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: C:/Users/akos/Downloads/itaa-gud.png Graphic file (type png)
 <use C:/Users/akos/Downloads/itaa-gud.png>
 Package pdftex.def Info: C:/Users/akos/Downloads/itaa-gud.png  used on input li
-ne 118.
+ne 115.
 (pdftex.def)             Requested size: 142.25475pt x 142.25548pt.
 
 
@@ -719,7 +719,7 @@ Here is how much of TeX's memory you used:
 c/dpi600\tcrm1200.pk><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/3
 LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/3LaTeX/fonts/type1/public/am
 sfonts/cm/cmsl12.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Gas mask regulations.pdf" (7 pages, 623016 bytes).
+Output written on "Gas mask regulations.pdf" (7 pages, 622623 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
