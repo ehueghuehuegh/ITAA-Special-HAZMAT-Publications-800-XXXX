@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  16 SEP 2026 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  19 SEP 2026 00:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -989,16 +989,18 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into
 your preamble.
  on input line 21.
 
-<C:/Users/akos/Downloads/SRA_logo.png, id=4, 48.18pt x 48.18pt>
-File: C:/Users/akos/Downloads/SRA_logo.png Graphic file (type png)
-<use C:/Users/akos/Downloads/SRA_logo.png>
-Package pdftex.def Info: C:/Users/akos/Downloads/SRA_logo.png  used on input li
-ne 29.
+<D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/sra.png, id=4, 48.18p
+t x 48.18pt>
+File: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/sra.png Graphic 
+file (type png)
+<use D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/sra.png>
+Package pdftex.def Info: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/imag
+es/sra.png  used on input line 29.
 (pdftex.def)             Requested size: 56.90553pt x 56.90553pt.
 [1
 
-{C:/Users/akos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <C:/Users/akos
-/Downloads/SRA_logo.png>]
+{C:/Users/akos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <D:/4TeX/ITAA-
+Special-HAZMAT-Publications-800-XXXX/images/sra.png>]
 Overfull \hbox (47.94438pt too wide) in paragraph at lines 41--47
  [][] 
  []
@@ -1044,12 +1046,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-<C:/Users/akos/Downloads/itaa-gud.png, id=28, 1084.05pt x 1082.0425pt>
-File: C:/Users/akos/Downloads/itaa-gud.png Graphic file (type png)
-<use C:/Users/akos/Downloads/itaa-gud.png>
-Package pdftex.def Info: C:/Users/akos/Downloads/itaa-gud.png  used on input li
-ne 148.
-(pdftex.def)             Requested size: 142.25475pt x 142.25548pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+<D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/headmeasure.jpeg, id=
+33, 225.84375pt x 150.5625pt>
+File: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/headmeasure.jpeg
+ Graphic file (type jpg)
+<use D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/headmeasure.jpeg>
+
+Package pdftex.def Info: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/imag
+es/headmeasure.jpeg  used on input line 141.
+(pdftex.def)             Requested size: 150.00844pt x 100.00333pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1058,7 +1071,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7 <C:/Users/akos/Downloads/itaa-gud.png>] (Gas mask regulations.aux)
+[8 <D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/headmeasure.jpeg>]
+<../images/itaa2.png, id=37, 1084.05pt x 1082.0425pt>
+File: ../images/itaa2.png Graphic file (type png)
+<use ../images/itaa2.png>
+Package pdftex.def Info: ../images/itaa2.png  used on input line 161.
+(pdftex.def)             Requested size: 142.25475pt x 142.25548pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9 <../images/itaa2.png>] (Gas mask regulations.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1072,10 +1098,10 @@ Package logreq Info: Writing requests to '"Gas mask regulations".run.xml'.
 ### simple group (level 1) entered at line 23 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 34188 strings out of 467870
- 818736 string characters out of 5435193
- 1772296 words of memory out of 5000000
- 62574 multiletter control sequences out of 15000+600000
+ 34205 strings out of 467870
+ 820188 string characters out of 5435193
+ 1772294 words of memory out of 5000000
+ 62591 multiletter control sequences out of 15000+600000
  634413 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,117p,761b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1083,10 +1109,11 @@ Here is how much of TeX's memory you used:
 c/dpi600\tcrm1200.pk><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/3
 LaTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/3LaTeX/fonts/type1/public/am
 sfonts/cm/cmr12.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><D:/3L
-aTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Gas mask regulations.pdf" (7 pages, 640228 bytes).
+aTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/3LaTeX/fonts/type1/public/am
+sfonts/cm/cmtt12.pfb>
+Output written on "Gas mask regulations.pdf" (9 pages, 661835 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

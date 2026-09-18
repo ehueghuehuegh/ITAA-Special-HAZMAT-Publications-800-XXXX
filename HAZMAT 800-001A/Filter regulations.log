@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  16 SEP 2026 20:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  19 SEP 2026 00:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -629,16 +629,18 @@ Package biblatex Info: Reference segment=0 on input line 18.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<C:/Users/akos/Downloads/SRA_logo.png, id=1, 48.18pt x 48.18pt>
-File: C:/Users/akos/Downloads/SRA_logo.png Graphic file (type png)
-<use C:/Users/akos/Downloads/SRA_logo.png>
-Package pdftex.def Info: C:/Users/akos/Downloads/SRA_logo.png  used on input li
-ne 26.
+<D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/sra.png, id=1, 48.18p
+t x 48.18pt>
+File: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/sra.png Graphic 
+file (type png)
+<use D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/sra.png>
+Package pdftex.def Info: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/imag
+es/sra.png  used on input line 26.
 (pdftex.def)             Requested size: 56.90553pt x 56.90553pt.
 [1
 
-{C:/Users/akos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <C:/Users/akos
-/Downloads/SRA_logo.png>]
+{C:/Users/akos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <D:/4TeX/ITAA-
+Special-HAZMAT-Publications-800-XXXX/images/sra.png>]
 Overfull \hbox (47.94438pt too wide) in paragraph at lines 38--44
  [][] 
  []
@@ -739,11 +741,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8]
-<C:/Users/akos/Downloads/itaa-gud.png, id=35, 1084.05pt x 1082.0425pt>
-File: C:/Users/akos/Downloads/itaa-gud.png Graphic file (type png)
-<use C:/Users/akos/Downloads/itaa-gud.png>
-Package pdftex.def Info: C:/Users/akos/Downloads/itaa-gud.png  used on input li
-ne 218.
+<D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/itaa2.png, id=35, 108
+4.05pt x 1082.0425pt>
+File: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/itaa2.png Graphi
+c file (type png)
+<use D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/itaa2.png>
+Package pdftex.def Info: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/imag
+es/itaa2.png  used on input line 218.
 (pdftex.def)             Requested size: 142.25475pt x 142.25548pt.
 
 
@@ -753,7 +757,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9 <C:/Users/akos/Downloads/itaa-gud.png>] (Filter regulations.aux)
+[9 <D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/itaa2.png>]
+(Filter regulations.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -768,7 +773,7 @@ Package logreq Info: Writing requests to '"Filter regulations".run.xml'.
 ### bottom level 
 Here is how much of TeX's memory you used:
  13543 strings out of 467870
- 246283 string characters out of 5435193
+ 246921 string characters out of 5435193
  1113954 words of memory out of 5000000
  42280 multiletter control sequences out of 15000+600000
  635256 words of font info for 66 fonts, out of 8000000 for 9000
