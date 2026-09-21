@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  20 SEP 2026 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  21 SEP 2026 19:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -674,12 +674,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 107--107
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 108--108
 []|\OT1/cmr/m/n/12 Types| 
  []
 
 
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 125--125
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 126--126
 []|\OT1/cmr/m/n/12 Types| 
  []
 
@@ -691,23 +691,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 143--143
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 144--144
 []|\OT1/cmr/m/n/12 Types| 
  []
 
 
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 152--152
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 153--153
 []|\OT1/cmr/m/n/12 Types| 
  []
 
 
-Overfull \hbox (4.39775pt too wide) in paragraph at lines 153--153
+Overfull \hbox (4.39775pt too wide) in paragraph at lines 154--154
 []|\OT1/cmr/m/n/12 Omni(Combined)| 
- []
-
-
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 153--154
-[]|\OT1/cmr/m/n/12 Hi/Lo| 
  []
 
 
@@ -721,7 +716,12 @@ Overfull \hbox (2.71083pt too wide) in paragraph at lines 155--156
  []
 
 
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 156--156
+Overfull \hbox (2.71083pt too wide) in paragraph at lines 156--157
+[]|\OT1/cmr/m/n/12 Hi/Lo| 
+ []
+
+
+Overfull \hbox (2.71083pt too wide) in paragraph at lines 157--157
 []|\OT1/cmr/m/n/12 Hi/Lo| 
  []
 
@@ -786,7 +786,7 @@ sfonts/cm/cmr10.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/3La
 TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/3LaTeX/fonts/type1/public/amsfo
 nts/cm/cmsl12.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/3LaTe
 X/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Filter regulations.pdf" (9 pages, 689828 bytes).
+Output written on "Filter regulations.pdf" (9 pages, 689806 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

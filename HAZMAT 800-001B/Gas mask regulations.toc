@@ -1,13 +1,13 @@
 \contentsline {section}{\numberline {1}INTRODUCTION}{5}{}%
 \contentsline {subsection}{\numberline {1.1}Background and Purpose}{5}{}%
-\contentsline {subsection}{\numberline {1.2}Acronyms}{5}{}%
-\contentsline {subsection}{\numberline {1.3}Document Organization}{6}{}%
+\contentsline {subsection}{\numberline {1.2}Document Organization}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Acronyms}{6}{}%
 \contentsline {section}{\numberline {2}RSSCBA Identification}{7}{}%
 \contentsline {subsection}{\numberline {2.1}RSSCBA Trait Charts}{7}{}%
 \contentsline {subsubsection}{\numberline {2.1.1}Respirator Facepieces Chart}{7}{}%
 \contentsline {subsubsection}{\numberline {2.1.2}SCBA Facepieces Chart}{7}{}%
 \contentsline {subsubsection}{\numberline {2.1.3}SCBA Gas Cylinders Chart}{7}{}%
-\contentsline {subsubsection}{\numberline {2.1.4}RSSCBA Sizes Chart}{7}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}RSSCBA Sizes Chart}{8}{}%
 \contentsline {section}{\numberline {3}RSSCBA Types}{9}{}%
 \contentsline {section}{\numberline {4}Other}{10}{}%
 \contentsline {subsection}{\numberline {4.1}RSSCBA Measurements}{10}{}%

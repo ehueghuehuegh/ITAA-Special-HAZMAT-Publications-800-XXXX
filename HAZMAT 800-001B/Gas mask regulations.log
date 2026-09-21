@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  20 SEP 2026 21:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  21 SEP 2026 19:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1042,22 +1042,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 116--116
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 121--121
 []|\OT1/cmr/m/n/12 Types| 
  []
 
 
-Overfull \hbox (30.44466pt too wide) in paragraph at lines 117--117
+Overfull \hbox (30.44466pt too wide) in paragraph at lines 122--122
 []|[]| 
  []
 
 
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 124--124
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 130--130
 []|\OT1/cmr/m/n/12 Types| 
  []
 
 
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 145--145
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 152--152
 []|\OT1/cmr/m/n/12 Types| 
  []
 
@@ -1086,13 +1086,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9]
 <D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/headmeasure.jpeg, id=
-40, 225.84375pt x 150.5625pt>
+41, 225.84375pt x 150.5625pt>
 File: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/headmeasure.jpeg
  Graphic file (type jpg)
 <use D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/headmeasure.jpeg>
 
 Package pdftex.def Info: D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/imag
-es/headmeasure.jpeg  used on input line 163.
+es/headmeasure.jpeg  used on input line 170.
 (pdftex.def)             Requested size: 150.00844pt x 100.00333pt.
 
 
@@ -1104,10 +1104,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [10 <D:/4TeX/ITAA-Special-HAZMAT-Publications-800-XXXX/images/headmeasure.jpeg>
 ]
-<../images/itaa2.png, id=44, 1084.05pt x 1082.0425pt>
+<../images/itaa2.png, id=45, 1084.05pt x 1082.0425pt>
 File: ../images/itaa2.png Graphic file (type png)
 <use ../images/itaa2.png>
-Package pdftex.def Info: ../images/itaa2.png  used on input line 183.
+Package pdftex.def Info: ../images/itaa2.png  used on input line 190.
 (pdftex.def)             Requested size: 142.25475pt x 142.25548pt.
 
 
@@ -1131,22 +1131,22 @@ Package logreq Info: Writing requests to '"Gas mask regulations".run.xml'.
 ### simple group (level 1) entered at line 23 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 34205 strings out of 467870
- 820188 string characters out of 5435193
- 1785298 words of memory out of 5000000
- 62591 multiletter control sequences out of 15000+600000
+ 34206 strings out of 467870
+ 820203 string characters out of 5435193
+ 1783298 words of memory out of 5000000
+ 62592 multiletter control sequences out of 15000+600000
  634413 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,117p,761b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,117p,761b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\akos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
 c/dpi600\tcrm1200.pk><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/3
 LaTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/3LaTeX/fonts/type1/public/a
 msfonts/cm/cmr10.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/3L
 aTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><D:/3LaTeX/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Gas mask regulations.pdf" (11 pages, 674876 bytes).
+Output written on "Gas mask regulations.pdf" (11 pages, 676911 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
